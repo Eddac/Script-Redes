@@ -1,3 +1,4 @@
+## Emanuel Cordeiro
 
 ## Construção do Bigrama ----
 depressaobigrama <- depressaoclean %>%
