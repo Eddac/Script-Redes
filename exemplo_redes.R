@@ -1,5 +1,16 @@
 ## Emanuel Cordeiro
 
+## Carregamento de pacotes
+library(tidyverse)
+library(tidytext)
+library(tm)
+library(widyr)
+library(igraph)
+library(ggraph)
+
+# Modelo simples
+
+
 ## Construção do Bigrama ----
 depressaobigrama <- depressaoclean %>%
   dplyr::select(word) %>%
